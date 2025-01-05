@@ -1,0 +1,16 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend structure for vaidhyapal ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "dev",
+    "vaidhyapal"
+  ],
+  "author": "Devesh Kuamr Jha",
+  "license": "ISC"
+}
